@@ -21,7 +21,7 @@ public class MainApp {
             print("[3]: delete student");
             print("[4]: delete student For ever");
             print("[5]: Remind Capacity");
-
+            print("[6]:);
 
             switch (Integer.parseInt(input())) {
 
